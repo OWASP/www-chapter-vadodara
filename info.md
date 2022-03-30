@@ -1,5 +1,5 @@
 ### Vadodara Information
-* We at OWASP Vadodara intend to create a community for aspiring Cyber Security Professionals, where they can come together, to network, learn and grow, as individuals and as professionals. By the events that we conduct, we want to help Cyber Security Enthusiasts across all spectrums and skill levels, in the city of Vadodara to be able to come together and share knowledge.
+* Vadodara, also known as Baroda, is the second-largest city in the Indian state of Gujarat. It serves as the administrative headquarters of the Vadodara district and is situated on the banks of the Vishwamitri River, 141 kilometres (88 mi) from the state capital of Gandhinagar. The railway line and National Highway 8, which connect Delhi with Mumbai, pass through Vadodara. The city is named for its abundance of the Banyan  tree. Vadodara is also locally referred to as the Sanskari Nagari and Kala Nagari of India.
 
 
 ### Social Links
