@@ -3,7 +3,7 @@ title: upcomingevents
 displaytext: upcoming events
 tab: true
 order: 1
-tags: blr
+tags: vad
 ---
 
 # **Next Meeting**
