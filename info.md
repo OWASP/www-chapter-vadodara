@@ -3,6 +3,7 @@
 
 
 ### Social Links
+* [Meetup Group](https://www.meetup.com/owasp-vadodara-chapter/)
 * [Instagram](https://www.instagram.com/owasp_vadodara/)
 * [twitter](https://twitter.com/OwaspVadodara/)
 
