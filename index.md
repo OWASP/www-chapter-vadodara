@@ -5,7 +5,7 @@ title: OWASP Vadodara
 tags: BDQ
 region: Asia
 country: India
-meetup-group:
+meetup-group: owasp-vadodara-chapter 
 
 ---
 
